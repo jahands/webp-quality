@@ -3,4 +3,4 @@
 ![](/lossless.webp)
 
 ## Lossy
-![](/lossy.webp)
+![](/lossy96.webp)
