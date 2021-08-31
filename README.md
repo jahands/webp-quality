@@ -2,5 +2,7 @@
 ## Lossless
 ![](/lossless.webp)
 
-## Lossy
+## Lossy95
+![](/lossy95.webp)
+## Lossy96
 ![](/lossy96.webp)
